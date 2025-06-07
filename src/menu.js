@@ -324,7 +324,7 @@ function MenuSection({ section }) {
     );
   }
 
-  // Sinon on affiche juste la section avec ses plats
+
   return (
     <section>
       <h2>{section.section}</h2>

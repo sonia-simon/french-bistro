@@ -1,33 +1,4 @@
-/* .contact-wrapper {
-  background: rgba(116, 114, 114, 0.25);
-  border-radius: 16px;
-  padding: 2rem 2.5rem;
-  max-width: 600px;
-  width: 90%;
-  margin: 3rem auto;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
-  box-sizing: border-box;
-  color: #f7e9c4;
-  text-align: center;
-  position: relative;
-  z-index: 2;
-} */
-/* .contact-wrapper {
-  background: rgba(116, 114, 114, 0.25);
-  border-radius: 16px;
-  padding: 2rem 2.5rem;
-  max-width: 600px;
-  width: 90%;
-  margin: 3rem auto;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
-  box-sizing: border-box;
-  color: #f7e9c4;
-  text-align: center;
-  position: relative;
-  z-index: 2;
-} */
 
-/* Titre */
 .contact-wrapper h2 {
   font-size: 2.5rem;
   font-weight: 900;
@@ -38,7 +9,6 @@
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
 }
 
-/* Texte info */
 .contact-wrapper p {
   margin: 0.5rem 0;
   font-size: 1.05rem;
@@ -46,7 +16,6 @@
   text-align: left;
 }
 
-/* Formulaire */
 .contact-wrapper form {
   display: flex;
   flex-direction: column;
@@ -55,7 +24,7 @@
   margin-top: 2rem;
 }
 
-/* Labels */
+
 .contact-wrapper label {
   text-align: left;
   font-weight: 600;
@@ -63,7 +32,7 @@
   color: #ffeecb;
 }
 
-/* Champs */
+
 .contact-wrapper input,
 .contact-wrapper textarea {
   padding: 0.8rem 1rem;
@@ -79,14 +48,14 @@
   box-sizing: border-box;
 }
 
-/* Focus */
+
 .contact-wrapper input:focus,
 .contact-wrapper textarea:focus {
   background-color: #f3d18b !important;
   outline: 2px solid #c4932f;
 }
 
-/* Bouton */
+
 .contact-wrapper button {
   padding: 0.8rem;
   background-color: #153e2f;
@@ -104,7 +73,7 @@
   background-color: #1f583f;
 }
 
-/* Responsive */
+
 @media (max-width: 480px) {
   .contact-wrapper {
     padding: 1.5rem;

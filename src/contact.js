@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { motion } from 'framer-motion'; // ✅ Ajouté
+import { motion } from 'framer-motion'; 
 import './contact.css';
 
 const Contact = () => {
@@ -25,9 +25,9 @@ const Contact = () => {
   return (
     <motion.div
       className="contact-wrapper"
-      initial={{ opacity: 0, y: 40 }}       // animation au départ
-      animate={{ opacity: 1, y: 0 }}        // animation une fois visible
-      transition={{ duration: 0.8, ease: 'easeOut' }} // durée & easing
+      initial={{ opacity: 0, y: 40 }}       
+      animate={{ opacity: 1, y: 0 }}        
+      transition={{ duration: 0.8, ease: 'easeOut' }} 
     >
       <main>
         <section>
