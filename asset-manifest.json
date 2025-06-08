@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.26221970.css",
-    "main.js": "/static/js/main.32486447.js",
-    "static/js/453.64581f70.chunk.js": "/static/js/453.64581f70.chunk.js",
-    "index.html": "/index.html",
-    "main.26221970.css.map": "/static/css/main.26221970.css.map",
-    "main.32486447.js.map": "/static/js/main.32486447.js.map",
-    "453.64581f70.chunk.js.map": "/static/js/453.64581f70.chunk.js.map"
+    "main.css": "/french-bistro/static/css/main.26221970.css",
+    "main.js": "/french-bistro/static/js/main.b7aff2bd.js",
+    "static/js/453.64581f70.chunk.js": "/french-bistro/static/js/453.64581f70.chunk.js",
+    "index.html": "/french-bistro/index.html",
+    "main.26221970.css.map": "/french-bistro/static/css/main.26221970.css.map",
+    "main.b7aff2bd.js.map": "/french-bistro/static/js/main.b7aff2bd.js.map",
+    "453.64581f70.chunk.js.map": "/french-bistro/static/js/453.64581f70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26221970.css",
-    "static/js/main.32486447.js"
+    "static/js/main.b7aff2bd.js"
   ]
 }
