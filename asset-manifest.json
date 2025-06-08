@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/french-bistro/static/css/main.26221970.css",
-    "main.js": "/french-bistro/static/js/main.b7aff2bd.js",
+    "main.js": "/french-bistro/static/js/main.a0f68381.js",
     "static/js/453.64581f70.chunk.js": "/french-bistro/static/js/453.64581f70.chunk.js",
     "index.html": "/french-bistro/index.html",
     "main.26221970.css.map": "/french-bistro/static/css/main.26221970.css.map",
-    "main.b7aff2bd.js.map": "/french-bistro/static/js/main.b7aff2bd.js.map",
+    "main.a0f68381.js.map": "/french-bistro/static/js/main.a0f68381.js.map",
     "453.64581f70.chunk.js.map": "/french-bistro/static/js/453.64581f70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26221970.css",
-    "static/js/main.b7aff2bd.js"
+    "static/js/main.a0f68381.js"
   ]
 }
